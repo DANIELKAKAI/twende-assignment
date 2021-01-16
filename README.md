@@ -13,8 +13,8 @@ $ apt install nodejs
 ```
 
 ```bash
-$ git clone https://github.com/DANIELKAKAI/twende-project.git
-$ cd twende-project
+$ git clone https://github.com/DANIELKAKAI/twende-assignment.git
+$ cd twende-assignment
 $ npm install
 $ npm start
 ```
