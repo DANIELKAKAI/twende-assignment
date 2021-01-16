@@ -43,11 +43,6 @@ class App extends Component {
         (error) => {
           console.log(error);
         }); 
-        
-        if (localStorage.getItem("favorites") !== null) {
-          console.log(localStorage.getItem("favorites"))
-          this.setState({favorites:localStorage.getItem("favorites")})
-        }
 
   }
 
